@@ -1,4 +1,5 @@
 ## Dinopass Wordlists
+All of the password (simple & strong) from dinopass.com - popularly used by IT professionals and people trying to create "secure" and memorable passwords.
 Spent 6 and a half years of my life clicking to get all of these :)
 
 ## Files
