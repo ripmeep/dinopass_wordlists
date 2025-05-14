@@ -11,8 +11,8 @@ cd4eb9d16185c46604b1fe9584772d5c5a52d8737fbb36116899729fa403e7bd  dinopass_simpl
 ```
 
 ```
-341M dinopass_simple.lst
-341M dinopass_strong.lst
+341M dinopass_simple.txt
+341M dinopass_strong.txt
 ```
 
 
